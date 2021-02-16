@@ -1,0 +1,11 @@
+commit 0ddda6c3e705e0d3d03001f9bceaa92c5a63b0fc (HEAD -> master)
+Author: BILARUS <sir.dmikol@gmail.com>
+Date:   Tue Feb 16 14:01:50 2021 +0300
+
+    add status.txt
+
+commit b8712e6314d045abbf5544aeaeff417ae929d1b4
+Author: BILARUS <sir.dmikol@gmail.com>
+Date:   Tue Feb 16 13:52:05 2021 +0300
+
+    add.gitignore
