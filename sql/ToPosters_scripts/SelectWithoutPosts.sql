@@ -1,0 +1,1 @@
+SELECT * FROM posters WHERE login NOT IN (SELECT login FROM posts);

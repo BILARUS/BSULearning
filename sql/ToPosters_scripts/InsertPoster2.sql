@@ -1,0 +1,1 @@
+INSERT INTO posters (login, nickname, hashed_password, likes) VALUES ('NazarP', 'TRUERyanGoslingFan', 'Password', 40000);
