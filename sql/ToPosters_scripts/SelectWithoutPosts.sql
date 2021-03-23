@@ -1,1 +1,1 @@
-SELECT * FROM posters WHERE login NOT IN (SELECT login FROM posts);
+SELECT * FROM posters WHERE id NOT IN (SELECT poster_id FROM posts);
