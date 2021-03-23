@@ -1,0 +1,1 @@
+INSERT INTO posts (title, poster_login) VALUES ('PostOfLove', 'DmitryK');

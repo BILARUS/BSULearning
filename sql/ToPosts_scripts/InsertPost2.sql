@@ -1,0 +1,1 @@
+INSERT INTO posts (title, poster_login, text, likes) VALUES ('EnhancedPostOfLove', 'NazarP', 'ILoveRyanGosling', 777);

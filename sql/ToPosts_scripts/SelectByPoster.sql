@@ -1,0 +1,1 @@
+SELECT * FROM posts WHERE poster_login LIKE 'NazarP' ORDER BY posts.created_at

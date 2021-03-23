@@ -1,0 +1,1 @@
+UPDATE posts SET likes = 420 where id = 1;

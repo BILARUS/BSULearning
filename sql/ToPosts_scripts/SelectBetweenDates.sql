@@ -1,0 +1,1 @@
+SELECT * FROM posts WHERE posts.created_at BETWEEN '2007-02-07' AND '2027-02-15';

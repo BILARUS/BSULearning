@@ -1,0 +1,1 @@
+SELECT * FROM post ORDER BY created_at LIMIT 10;
